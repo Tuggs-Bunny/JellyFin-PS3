@@ -1,6 +1,8 @@
 # Jellyfin PS3
 
-![Jellyfin PS3](jf-ps3.png)
+<p align="center">
+  <img src="jf-ps3.png" width="300"/>
+</p>
 
 A lightweight Jellyfin client for the PlayStation 3, written in C/C++ using PSL1GHT. Browse your Jellyfin media library and play content directly from your PS3.
 
